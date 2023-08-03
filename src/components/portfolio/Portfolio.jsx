@@ -13,28 +13,28 @@ const data = [
   {
   id: 1,
   image: IMG1,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github: `https://github.com`,
-  demo: `https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization`
+  title: 'Voting System Website',
+  github: `https://github.com/Prajwal-A/online-voting-system`,
+  demo: `https://github.com/Prajwal-A/online-voting-system/blob/main/README.md`
   },
   {
   id: 2,
   image: IMG2,
-  title: 'Charts templates & infographics in Figma',
+  title: 'Notes App Using Android Studio',
   github: `https://github.com`,
   demo: `https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma`
   },
   {
   id: 3,
   image: IMG3,
-  title:'adshkj dskjf',
-  github: `https://github.com`,
-  demo: `https: //dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps`
+  title:'IPL win Prediction using ML',
+  github: `https://github.com/Prajwal-A/ipl-win-prediction`,
+  demo: `https://prajwal-a-ipl-win-prediction-app-gzgnz1.streamlit.app/`
   },
   {
     id: 4,
     image: IMG4,
-    title:'adshkj dskjf',
+    title:'Chronic Kidney Disease Prediction using ML',
     github: `https://github.com`,
     demo: `https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress`
     
@@ -42,7 +42,7 @@ const data = [
     {
       id: 5,
       image: IMG5,
-      title:'adshkj dskjf',
+      title:'Snake Game using Java',
       github: `https://github.com`,
       demo: `https: //dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma`
       
@@ -50,7 +50,7 @@ const data = [
       {
         id: 6,
         image: IMG6,
-        title:'adshkj dskjf',
+        title:'Library Management System using DSA',
         github: `https://github.com`,
         demo: `https: //dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma`
         
@@ -73,8 +73,8 @@ const Portfolio = () => {
                   </div>
                   <h3>{title}</h3>
                   <div className="portfolio_item-cta">
-                    <a href={github} className="btn" target='_blank'>GitHub</a>
-                    <a href={demo} className="btn btn-primary" target='_blank'>Live Demo</a>
+                    <a href={github} className="btn" target='_blank'>Code</a>
+                    <a href={demo} className="btn btn-primary" target='_blank'>Project Overview</a>
                   </div>
                 </article>
               )
