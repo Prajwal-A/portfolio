@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.75d011ed.css",
-    "main.js": "/portfolio/static/js/main.54a90266.js",
+    "main.js": "/portfolio/static/js/main.6c39a419.js",
     "static/js/787.88012170.chunk.js": "/portfolio/static/js/787.88012170.chunk.js",
     "static/media/cv.pdf": "/portfolio/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/11122021 Prajwal G Alewoor_page-0001.jpg": "/portfolio/static/media/11122021 Prajwal G Alewoor_page-0001.4ae16e814a0a4e116de3.jpg",
@@ -20,11 +20,11 @@
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio/index.html",
     "main.75d011ed.css.map": "/portfolio/static/css/main.75d011ed.css.map",
-    "main.54a90266.js.map": "/portfolio/static/js/main.54a90266.js.map",
+    "main.6c39a419.js.map": "/portfolio/static/js/main.6c39a419.js.map",
     "787.88012170.chunk.js.map": "/portfolio/static/js/787.88012170.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75d011ed.css",
-    "static/js/main.54a90266.js"
+    "static/js/main.6c39a419.js"
   ]
 }
