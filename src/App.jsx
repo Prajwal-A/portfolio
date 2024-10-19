@@ -8,6 +8,7 @@ import Portfolio from './components/portfolio/Portfolio';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import Achievements from './components/achievements/Achievements';
+import Work from './components/work/Work';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Nav />
         <About />
         <Experience />
+        <Work />
        {/* <Services /> */}
         <Portfolio />
         <Achievements/>

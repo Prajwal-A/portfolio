@@ -6,6 +6,7 @@ import AVT3 from '../../assets/Web Dev phaseshift_page-0001.jpg'
 import AVT4 from '../../assets/PRAJWAL G ALEWOOR - Simulation Tools_page-0001.jpg'
 import AVT5 from '../../assets/Prajwal G Alewoor - Deep Learning workshop Certificate_page-0001.jpg'
 import AVT6 from '../../assets/11122021 Prajwal G Alewoor_page-0001.jpg'
+import AVT7 from '../../assets/RapidMiner.png'
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -46,10 +47,16 @@ const data = [
     review: 'Participated in hands-on Deep Learning Workshop organized by BMSCE IEEE Student Branch in collaboration with Cellstrat'
   },
   {
+    avatar: AVT7,
+    name: 'RapidMiner Certificate',
+    review: 'Successfully passed the examination for Applications & Use Cases Professional Certification'
+  },
+  {
     avatar: AVT6,
     name: 'Tree Plantation Activity',
     review: 'Participated in Tree Plantation Event organized by Kshiti Foundation Trust held at Bangalore University Campus'
   },
+  
 ]
   
 

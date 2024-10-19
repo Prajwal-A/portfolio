@@ -72,14 +72,14 @@ const Experience = () => {
               <BsPatchCheckFill />
               <div>
               <h4>Shell Script</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Basic</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
               <div>
               <h4>MySQL & MongoDB</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Basic</small>
               </div>
             </article>
           </div>
@@ -104,7 +104,7 @@ const Experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill />
               <div>
-              <h4>Web Dev</h4>
+              <h4>Software Testing</h4>
               <small className='text-light'>Intermediate</small>
               </div>
 
@@ -112,21 +112,21 @@ const Experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill />
               <div>
-              <h4>Android Dev</h4>
-              <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            <article className='experience_details'>
-              <BsPatchCheckFill />
-              <div>
-              <h4>DBMS</h4>
+              <h4>Web & Android Dev</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill />
               <div>
-              <h4>AI & ML</h4>
+              <h4>Deep Learning</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill />
+              <div>
+              <h4>Machine Learning</h4>
               <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -147,8 +147,8 @@ const Experience = () => {
             <article className='experience_details'>
               <BsPatchCheckFill />
               <div>
-              <h4>Blockchain</h4>
-              <small className='text-light'>Basic</small>
+              <h4>DBMS</h4>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience_details'>
