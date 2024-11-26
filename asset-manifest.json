@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.75d011ed.css",
-    "main.js": "/portfolio/static/js/main.72de28fd.js",
+    "main.css": "/portfolio/static/css/main.c6d10ee5.css",
+    "main.js": "/portfolio/static/js/main.8687bacc.js",
     "static/js/787.88012170.chunk.js": "/portfolio/static/js/787.88012170.chunk.js",
     "static/media/11122021 Prajwal G Alewoor_page-0001.jpg": "/portfolio/static/media/11122021 Prajwal G Alewoor_page-0001.4ae16e814a0a4e116de3.jpg",
     "static/media/Cloud computing.jpg": "/portfolio/static/media/Cloud computing.e38dd3969ab1d8413a34.jpg",
@@ -11,20 +11,21 @@
     "static/media/mathmania.jpg": "/portfolio/static/media/mathmania.93e88d49497b5b867eb7.jpg",
     "static/media/PRAJWAL G ALEWOOR - Simulation Tools_page-0001.jpg": "/portfolio/static/media/PRAJWAL G ALEWOOR - Simulation Tools_page-0001.f4efbc742c53b3358d30.jpg",
     "static/media/about-boy.jpg": "/portfolio/static/media/about-boy.96b69b35561d9e6406fa.jpg",
-    "static/media/cv.pdf": "/portfolio/static/media/cv.b53febae8b46b7795192.pdf",
     "static/media/RapidMiner.png": "/portfolio/static/media/RapidMiner.6c5d99cfbb038f517153.png",
+    "static/media/Prajwal G Alewoor_Resume.pdf": "/portfolio/static/media/Prajwal G Alewoor_Resume.eeee20d3b202c80abbfd.pdf",
     "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.4a5b464f705863002a03.png",
     "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.62014f9072dead660660.jpg",
     "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.f16aaef9a38ca150314a.png",
     "static/media/portfolio4.png": "/portfolio/static/media/portfolio4.dca825e6564e218aaebd.png",
     "static/media/portfolio6.png": "/portfolio/static/media/portfolio6.62a3ff4f3123f35db0bb.png",
+    "static/media/png-clipart-havells-logo-industry-electricity-company-marketing-text-electrical-switches.png": "/portfolio/static/media/png-clipart-havells-logo-industry-electricity-company-marketing-text-electrical-switches.efb03e9ad9035b002b6c.png",
     "index.html": "/portfolio/index.html",
-    "main.75d011ed.css.map": "/portfolio/static/css/main.75d011ed.css.map",
-    "main.72de28fd.js.map": "/portfolio/static/js/main.72de28fd.js.map",
+    "main.c6d10ee5.css.map": "/portfolio/static/css/main.c6d10ee5.css.map",
+    "main.8687bacc.js.map": "/portfolio/static/js/main.8687bacc.js.map",
     "787.88012170.chunk.js.map": "/portfolio/static/js/787.88012170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75d011ed.css",
-    "static/js/main.72de28fd.js"
+    "static/css/main.c6d10ee5.css",
+    "static/js/main.8687bacc.js"
   ]
 }
